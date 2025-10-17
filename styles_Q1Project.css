@@ -1,0 +1,40 @@
+body{
+  background-image:url(https://img.freepik.com/free-photo/we-are-hiring-digital-collage_23-2149667037.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+    font-family: "Epunda Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #333333;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+
+h2 {
+  background-color: lightsalmon;
+}
+
+
+form {
+  text-align: left;
+  background-color: white;
+}
+
+.container {
+  background-color: antiquewhite;
+  width: 50%;
+  padding: 10px;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center; 
+}
+
+.works {
+  text-align: left;
+}
